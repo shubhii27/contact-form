@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+}
+div{
+    padding:50px;
+    margin-top: 70px;
+    margin-left: 550px;
+    border-radius: 8px;
+}
+button{
+    padding:10px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    margin-left: 120px;
+}
